@@ -1,12 +1,37 @@
-# practica-markdown
+# Encabezado nuvel 1
 
-*Práctica del curso GF-0657 Programación en SIG*
+## Nivel 2
 
-# Encabezado nivel 1 
+### Nivel 3
 
-## Encabezado nivel 2 
+Este es el primer parrafo.\
+Segundo parrafo
 
-### Encabezado nivel 3 
+ **Negrita**
 
-**Negrita**
+*italica*
+
+~~tachado~~
+
+***negrita e italica***
+
+Lista numerada 
+1. dsfsd
+   1. dfsdf
+   2. sdfsdf
+      1. dfsdfds
+      2. df
+   3. sasds
+      1. adsdasd
+      2. sd
+2. 2dfdsf
+3. sdadasd
+
+Lista no numerada
+* asdasd
+* asdasdasd
+* asdsadasd
+
+[Sitio web de la UCR](https://ucr.ac.cr)
+
 
