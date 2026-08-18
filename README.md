@@ -27,10 +27,7 @@ Lista numerada
 2. 2dfdsf
 3. sdadasd
 
-Lista no numerada
-* asdasd
-* asdasdasd
-* asdsadasd
+
 
 [Sitio web de la UCR](https://ucr.ac.cr)
 
